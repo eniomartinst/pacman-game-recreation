@@ -25,7 +25,7 @@ This project was developed to demonstrate proficiency in game loop architecture,
 1. Ensure you have the [.NET 10 SDK](https://dotnet.microsoft.com/download) installed on your machine.
 2. Clone this repository:
 ```bash
-   git clone [https://github.com/eniomartinst/pacman-game-recreation.git](https://github.com/eniomartinst/pacman-game-recreation.git)
+   git clone https://github.com/eniomartinst/pacman-game-recreation.git
    ```
 3. Navigate to the project root directory.
 4. Run the application via the .NET CLI:

@@ -3,6 +3,7 @@ bin/
 obj/
 .vs/
 .vscode/
+.idea/
 
 # Ignorar arquivos de usuário e configurações locais
 *.user

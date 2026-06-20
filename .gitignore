@@ -1,0 +1,15 @@
+# Ignorar pastas de build e cache
+bin/
+obj/
+.vs/
+.vscode/
+
+# Ignorar arquivos de usuário e configurações locais
+*.user
+*.suo
+*.userosscache
+*.sln.docstates
+
+# Ignorar arquivos de sistema
+.DS_Store
+Thumbs.db

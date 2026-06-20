@@ -1,0 +1,10 @@
+{
+  "background_color": "#ffffff",
+  "description": "pacman",
+  "display": "standalone",
+  "name": "pacman",
+  "short_name": "pacman",
+  "start_url": "/index.html",
+  "theme_color": "#ffffff",
+  "scope": "/"
+}
